@@ -1,8 +1,8 @@
-# Xin chào, tôi là [Tên của bạn]! 👋
+# Xin chào, tôi là Nguyễn Văn Trung ! 👋
 
 ## Giới thiệu bản thân
-- 🏢 Tôi hiện đang làm việc tại [Tên công ty] với vị trí [Chức vụ].
-- 🎓 Tôi tốt nghiệp từ [Tên trường học].
+- 🏢 Tôi hiện đang làm việc tại `VNPAY` với vị trí System Engineer.
+- 🎓 Tôi tốt nghiệp từ Đại học Công nghệ thông tin và Truyền thông Thái Nguyên - Đại học Thái Nguyên.
 - 🔭 Tôi đang làm việc trên [Mô tả ngắn gọn về dự án hoặc lĩnh vực công việc].
 - 🌱 Tôi đang học hỏi [Kỹ năng hoặc công nghệ mới].
 
